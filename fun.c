@@ -5,6 +5,7 @@
 int main()
 {
 
-	printf("holle world!");
+	printf("holle world!\n");
+	printf("haha\n");
 	return 0;
 }
